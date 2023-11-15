@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filiph0101
 - 👀 I’m interested in finance & Ecommerce
-- 🌱 I’m currently learning python coding
+- 🌱 I’m currently learning python & Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
